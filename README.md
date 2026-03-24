@@ -1,5 +1,4 @@
 # 🛒 Smart Product Filter System
-> **"퍼블리싱의 정교함과 프런트엔드의 로직을 잇다"**
 > React, TypeScript, Styled-Components, GSAP를 활용한 인터랙티브 상품 필터링 시스템
 
 <br />
